@@ -3,7 +3,7 @@
 
 # input1="hello"
 
-# revrser=input1[::-1]
+# revrser=input1[::-1] 
 # print(revrser) 
 
 # i1="madam"
