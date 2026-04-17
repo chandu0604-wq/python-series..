@@ -4,7 +4,7 @@
 # input1="hello"
 
 # revrser=input1[::-1] 
-# print(revrser) 
+# print(revrser)    
 
 # i1="madam"
 
